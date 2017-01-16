@@ -1,0 +1,28 @@
+
+div.container {
+    width: 100%;
+    /*border: 1px solid gray;*/
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+content{
+    margin-left: 15px;
+    overflow: hidden;
+    height:100%;
+    font-size:14px;
+}
+
+.titleContent{
+
+    padding-left:136px;
+
+}
+
+
